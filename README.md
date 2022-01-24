@@ -29,6 +29,6 @@ Run tests
 Licensing
 =========
 
-Creative Commons Zero v1.0 Universal.
+This project is licensed under The Unlicense.
 
 Catch2 itself is under Boost Software License 1.0.
