@@ -39,6 +39,6 @@ if(BUILD_TESTING)
 		scaffold_library
 	)
 
-	include(ParseAndAddCatchTests)
-	ParseAndAddCatchTests(tests)
+	include(Catch)
+	catch_discover_tests(tests)
 endif()
